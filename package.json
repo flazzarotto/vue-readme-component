@@ -1,6 +1,6 @@
 {
 	"name": "@kebab-case/vue-readme-component",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"private": false,
 	"scripts": {
 		"serve": "vue-cli-service serve",
@@ -9,8 +9,8 @@
 	},
 	"dependencies": {
 		"core-js": "^3.6.5",
-		"vue": "^3.0.0",
-		"remarkable": "^2.0.1"
+		"remarkable": "^2.0.1",
+		"vue": "^3.0.0"
 	},
 	"devDependencies": {
 		"@babel/cli": "^7.12.8",
@@ -44,7 +44,7 @@
 		"last 2 versions",
 		"not dead"
 	],
-	"description": "Vue3 component to display MD file as html",
+	"description": "Vue3 component to display markdown file as html",
 	"author": "kebab-case",
 	"main": "./dist/index.js",
 	"module": "./src/index.js",
@@ -52,8 +52,10 @@
 	"keywords": [
 		"vuejs",
 		"vue 3",
-		"readme",
-		"component"
+		"md",
+		"markdown",
+		"component",
+		"readme"
 	],
 	"repository": {
 		"type": "git",
