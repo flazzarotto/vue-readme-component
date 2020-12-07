@@ -1,0 +1,18 @@
+{
+	"NSP_PACKAGE_VERSION": "1.0.0",
+	"NSP_USERNAME": "kebab-case",
+	"NSP_PACKAGE_LICENSE": "MIT",
+	"NSP_PACKAGE_KEYWORDS": "vuejs,vue 3,md,markdown,component,readme",
+	"NSP_PACKAGE_PRIVATE": false,
+	"NSP_APP_ENTRY_POINT": "index.js",
+	"NSP_PASSWORD": "t8AVnHu4CNygJxY",
+	"NSP_EMAIL": "fabrice.lazzarotto@gmail.com",
+	"NSP_PACKAGE_DESCRIPTION": "Vue3 component to display markdown file as html",
+	"NSP_SCOPED_PACKAGE": true,
+	"NSP_SCOPE_NAME": null,
+	"NSP_REPOSITORY_REMOTE": "https://github.com/flazzarotto/vue-readme-component",
+	"NSP_GIT_REPOSITORY_HOMEPAGE": "https://github.com/flazzarotto/vue-readme-component.git",
+	"NSP_ISSUES": "https://github.com/flazzarotto/vue-readme-component/issues",
+	"NSP_PACKAGE_NAME": "vue-readme-component",
+	"NSP_REPOSITORY_SSH_REMOTE": "git@github.com:flazzarotto/vue-readme-component.git"
+}
