@@ -1,1 +1,1 @@
-export default from './components/ReadmeComponent.vue'
+export {default as ReadmeComponent} from './components/ReadmeComponent.vue'
